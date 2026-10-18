@@ -1,0 +1,11 @@
+# secrets
+.env
+
+# local environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# source PDF is copyrighted by Air India; download it yourself (see README)
+data/*.pdf

@@ -1,0 +1,58 @@
+{
+ "d8af3bfe15803dfc898a23adda4aa482c73adf06797897ea042e2defce44d63e": {
+  "answer": "Based on the provided context, there is no mention of the maximum compensation for a passenger's death on a **domestic flight**. \n\nThe excerpts only provide compensation limits for **international carriage**:\n* **Article 17.1.1:** *\"For international carriage to which the Montreal Convention applies, the Carrier\u2019s liability in the case of death or bodily injury to Passengers will be limited up to a maximum of 128,821 SDRs, unless a higher monetary limit has been incorporated into the national laws of the country of the court seized of the case.\"*\n* **Article 17.1.2:** *\"For international carriage to which the Warsaw Convention applies, the Carrier\u2019s liability in the case of death or bodily injury to Passengers will be limited up to a maximum of 125,000 Francs which, being a now invalid currency, shall be deemed to be the equivalent of 128,821 SDRs, unless the national laws of the country of the [court seized of the case provide otherwise].\"*",
+  "seconds": 6.655096041038632
+ },
+ "112fca5eba3e480bcb18a4f25c8d240f5e2127ad11e05ce6f581f795efbe7317": {
+  "answer": "Based on the provided excerpts, for domestic flights (referred to as \"Non-International Carriage\"), the compensation limits and conditions are as follows:\n\n* **Maximum Limit:** Under **Article 17.1.3**, *\"the Carrier\u2019s liability in the case of death or bodily injury to Passengers will be limited to the sum of Twenty-Five Lakhs and Fifty Thousand Rupees, unless a higher monetary limit has been incorporated into law by the Government of India.\"*\n* **Exceptions regarding limits:** Under **Article 17.1.4**, *\"To the extent that damages under Articles 17.1.1, 17.1.2 and 17.1.3 may potentially exceed their respective stated limits, the Carrier shall not be liable for any sums in excess of those figures if the Carrier proves that the Damage (being the death or bodily injury) was not due to the negligence or other wrongful act or omission of the Carrier or its servants or...\"*\n* **General Conditions:** \n  * Under **Article 16.1**, liability applies *\"upon condition only that the accident which caused the death or injury took place on board the aircraft, or in the course of any of the operations of embarking or disembarking.\"*\n  * Under **Article 16.3**, compensation is subject to *\"the Airline Designator Code of Air India appearing in the carrier box of the Ticket for that flight or flight segment, and to the limits on compensation as provided under these Conditions of Carriage.\"*",
+  "seconds": 7.092637249967083
+ },
+ "ddf4a0ce8563080eb2b368ef68297ed37bf1d68771462ebf2f9b40617eee2a91": {
+  "answer": "Based on the provided excerpts, the text does not explicitly use the word \"free,\" but it indicates that you can avoid paying cancellation fees if you cancel within 48 hours of booking, subject to specific conditions and exceptions. \n\nAccording to **Excerpt 1 (chunk 22 | p.7-8)**:\n> *\"For all bookings where a change or cancellation is requested beyond forty-eight (48) hours of the initial booking time, this option is not available, and the Passenger has to pay the relevant cancellation fees for amendment.\"*\n\nHowever, this facility is subject to the following advance-departure conditions:\n* **Domestic bookings and travel from the USA or Canada:** *\"this facility shall not be available for a flight whose departure is less than seven (7) days from the booking date.\"*\n* **Any other bookings (including travel to the USA or Canada):** *\"this facility shall not be available for a flight whose departure is less than fifteen (15) days from the booking date.\"*",
+  "seconds": 8.416333250002936
+ },
+ "abbd23a393f40f36d563b601aa682882a1a33e69723766eebf3d6505160f0456": {
+  "answer": "Yes, you can cancel your ticket without additional charges right after booking it, provided your ticket qualifies under the Carrier's \"look-in option,\" subject to specific timing conditions.\n\nAccording to **Rule 6.1.3** [Excerpt 1 & 3]:\n* **The Rule:** *\"The Carrier provides a look-in option for its Passengers with respect to itineraries booked and ticketed on Air India documents. Under the look-in option, during the period of forty-eight (48) hours after booking the Ticket, the Passenger can cancel or amend the Ticket without any additional charges...\"*\n\n**Conditions and Exceptions:**\n* **Domestic flights and flights from the USA or Canada:** *\"For all domestic bookings, and bookings for travel from the USA or Canada, this facility shall not be available for a flight whose departure is less than seven (7) days from the booking date.\"* [Excerpt 1 & 3]\n* **Other flights (including travel to the USA or Canada):** *\"For any other bookings, including bookings for travel to the USA or Canada, this facility shall not be available for a flight whose departure is less than fifteen (15) days from the booking date.\"* [Excerpt 3]\n* **Time limit:** *\"For all bookings where a change or cancellation is requested beyond forty-eight (48) hours of the initial booking time, this option is not available, and the Passenger has to pay the relevant cancellation fees for amendment.\"* [Excerpt 3]",
+  "seconds": 6.101187124964781
+ },
+ "9869f3401a3fc66d5760b13d40ea5aee0f36bf1a54f9529ffa9ab421b76644bb": {
+  "answer": "Based on the provided excerpts, the context does not contain information regarding whether you can receive cancellation compensation if you provided a wrong phone number when booking.",
+  "seconds": 4.107406917028129
+ },
+ "5c904f74cb9216783c4d9294eb40326bcdd6e72da5bc6abb5cf07e16a0d75924": {
+  "answer": "Based on the provided excerpts, you will not be eligible for compensation. \n\nAccording to **[Excerpt 1 | chunk 60 | p.17]**:\n> \"The Passenger shall not be eligible for compensation in the event inadequate contact information has been provided at the time of booking the Ticket; provided, however, that the Carrier shall\" *(excerpt cuts off)*.",
+  "seconds": 3.8826573750120588
+ },
+ "1bfb59d4a516050ef85ab83fb7723cdf27b362b74ac42880a61b5281a5f7e4e9": {
+  "answer": "Based on the provided context, there is no information about who is not allowed to change or waive the Conditions of Carriage. The context does not contain the answer to this question.",
+  "seconds": 4.800960084015969
+ },
+ "ce815c6d39905c5eb65b543b5a76c46399f58cc849a6a030b52a889f940810b5": {
+  "answer": "Based on the provided context, no **agent, employee, or representative of the Carrier** has the authority to change or waive the conditions of carriage.\n\n**Relevant Rule:**\n* **Article 20 \u2013 MODIFICATION AND WAIVER:** *\"No agent, employee or representative of the Carrier has authority to alter, modify or waive any provision of these Conditions of Carriage.\"* [Excerpt 1 | chunk 104 | p.27]",
+  "seconds": 4.831047041981947
+ },
+ "9ae1b8dc40a2f96f098bc9cd6d8f9084e409a34b351929b697a49f946749b9cd": {
+  "answer": "Based on the provided excerpts, the context does not contain the answer to whether an unruly passenger must pay if a flight is diverted because of them. \n\nWhile Excerpt 2 references \"unruly behaviour as defined under Article 12\" (Rule 8.1.2.4), the text of Article 12 and any rules regarding liability or payment for flight diversion costs are not included in the provided excerpts.",
+  "seconds": 7.004967916000169
+ },
+ "d8ff06f4261b8dd8c7a4e967363e08f8eed4ee2046fc299c9fb1c21c21da2642": {
+  "answer": "Yes. According to **Article 12.3**, the passenger must pay for the diversion. \n\nSpecifically, the rule states:\n> \"If, as a result of the Passenger\u2019s conduct of the type mentioned in Article 12.1, the Carrier decides, in the exercise of its reasonable discretion, to divert the aircraft for the purpose of offloading the Passenger, the Passenger shall pay all costs resulting from that diversion.\" [Excerpt 1]\n\nUnder **Article 12.1**, this applies if the passenger conducts themselves in a manner that leads the Carrier to apprehend that they \"may endanger the aircraft, or any person or property of the Carrier, or obstruct the crew or ground staff in the performance of their duties, or is likely to behave in a manner that is disruptive and/or unruly\" [Excerpt 3].",
+  "seconds": 5.549767000018619
+ },
+ "67ddd2966650c0af1f91409f9caa8157d2c8fb0501b22a471506722f7df0abe4": {
+  "answer": "Based on the provided context, the excerpts do not contain specific information regarding when the airline will not pay compensation for **denied boarding**. \n\nThe context only mentions:\n* The right to deny boarding if a payment transaction is unverified for a travel agency booking and the passenger fails to purchase a fresh ticket directly from the Carrier (Excerpt 1, Rule 6.8.4).\n* General circumstances where compensation is not paid for *flight cancellations or delays* (such as force majeure events) or where \"inadequate contact information has been provided at the time of booking\" (Excerpt 3).",
+  "seconds": 13.133438333985396
+ },
+ "12d04bbc0f6b1b92b73501475c0cebe2f002c45ba7346dfa7f591d0fdd71325c": {
+  "answer": "Based on the provided excerpts, the airline is not liable to pay compensation for denied boarding under the following condition:\n\n* When passengers are denied boarding because more passengers report for a flight than available seats, and **\"the Carrier arranges an alternate flight scheduled to depart within one hour from the originally scheduled departure time.\"** ([Excerpt 2 | chunk 35 | p.11])",
+  "seconds": 4.039867417013738
+ },
+ "68eb75f444c1a92facfdf2ea45db0135f9fffd1928de47808cbe5b0ea66cceab": {
+  "answer": "Based on the provided excerpts, yes, there is an extra fee for domestic bookings made on the Carrier\u2019s website:\n\n* **Rule / Fee:** \"The convenience fee is a non-refundable fee of INR 300 that is applied to all domestic bookings made via the Carrier\u2019s website, mobile application and call centres.\" [Excerpt 2 & 3 | p.6-7]\n* **Conditions:** \n  * \"The fee applies on all modes of payment and is charged per customer per Ticket.\" [Excerpt 2 | chunk 19 | p.6-7]\n  * It is explicitly stated for **domestic bookings**; the provided context does not mention whether a fee applies to international bookings made on the website.",
+  "seconds": 6.205415166972671
+ },
+ "d63eae17ffa318442561ed441675646bf01983b60d5e6c8415b1f47f64e58247": {
+  "answer": "Yes, for domestic bookings, there is an extra fee. \n\nAccording to Excerpt 3 (p. 6\u20137), there is:\n> \"...a non-refundable fee of INR 300 that is applied to all domestic bookings made via the Carrier\u2019s website, mobile application and call centres.\"\n\n**Conditions:**\n* \"The fee applies on all modes of payment and is charged per customer per Ticket.\"\n\n*(Note: The provided text does not mention whether an extra fee applies to international bookings made on the website.)*",
+  "seconds": 5.653751625039149
+ }
+}
