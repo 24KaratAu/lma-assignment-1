@@ -22,7 +22,7 @@ cp .env.example .env        # then put your Gemini API key in .env
 jupyter notebook rag_baseline_vs_rerank.ipynb
 ```
 
-`cache/llm_answers.json` holds the Gemini answers from the recorded run, so re-running the notebook reproduces them without using API quota. Delete it to regenerate.
+`cache/llm_answers.json` holds the Gemini answers from the recorded run, so re-running the notebook reproduces them without an API key or quota. Delete it to regenerate.
 
 ## Notebook sections
 

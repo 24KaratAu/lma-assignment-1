@@ -7,3 +7,4 @@ google-genai==2.31.0
 python-dotenv==1.2.4
 pandas==3.0.6
 ipykernel==7.4.0
+notebook==7.6.3
